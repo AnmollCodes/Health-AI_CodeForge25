@@ -2,8 +2,6 @@
 
 **Bringing AI-driven healthcare solutions to improve diagnosis, accessibility, and efficiency.**  
 
-![Health.AI Logo](https://drive.google.com/file/d/1EvKY_UFKRUMUfG1f0gPB2mun16_nNBaU/view?usp=sharing)
-
 ## **The Problem Health.AI Solves**  
 Health.AI solves several critical challenges in the healthcare industry by leveraging artificial intelligence and modern technology:
 
@@ -26,5 +24,5 @@ Health.AI solves several critical challenges in the healthcare industry by lever
 
 ![Health.AI PPT](https://drive.google.com/file/d/1EvKY_UFKRUMUfG1f0gPB2mun16_nNBaU/view?usp=sharing](https://docs.google.com/presentation/d/1VJs7tBnJUHriM2EjSCaRvIbwFRvPUPmN/edit?usp=sharing&ouid=106839190351195773261&rtpof=true&sd=true))
 
-![Health.AI Demo](https://drive.google.com/file/d/1t1dapFejdYhiryQd05mBwjeiJi5fdj1_/view?usp=sharing)
+![Health.AI Demo](https://youtu.be/rH5ORjGJ8XQ)
 
