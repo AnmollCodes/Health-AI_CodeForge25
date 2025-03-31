@@ -22,7 +22,9 @@ Health.AI solves several critical challenges in the healthcare industry by lever
 
 ---
 
-![Health.AI PPT](https://drive.google.com/file/d/1EvKY_UFKRUMUfG1f0gPB2mun16_nNBaU/view?usp=sharing](https://docs.google.com/presentation/d/1VJs7tBnJUHriM2EjSCaRvIbwFRvPUPmN/edit?usp=sharing&ouid=106839190351195773261&rtpof=true&sd=true))
+## 📊 **Project Presentation**
+
+[![View Health.AI Presentation](https://drive.google.com/uc?export=view&id=1VJs7tBnJUHriM2EjSCaRvIbwFRvPUPmN)](https://docs.google.com/presentation/d/1VJs7tBnJUHriM2EjSCaRvIbwFRvPUPmN/edit?usp=drive_link)
 
 ## 📽️ **Demo Video**
 [![Watch the demo](https://img.youtube.com/vi/rH5ORjGJ8XQ/0.jpg)](https://youtu.be/rH5ORjGJ8XQ)
